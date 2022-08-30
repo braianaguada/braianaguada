@@ -9,7 +9,7 @@
  📫 Para contactarme **braianaguada@gmail.com**
    </p>
 <p align="center">
- 📄 Sobre mi! [https://www.linkedin.com/in/braian-aguada](https://www.linkedin.com/in/braian-aguada)
+ 📄 Sobre mi: Soy Braian Aguada, tengo 27 años, estudiante de Licenciatura en Ciencias de Datos en la UBA. Soy desarrollador Full-Stack y me encuentro estudiando programacion y aprendiendo dia a dia sobre este apasionante mundo.
  </p>
 <h3 align="center">Contactame:</h3>
 <p align="center">
