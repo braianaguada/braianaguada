@@ -1,15 +1,15 @@
 <h1 align="center">Hola👋, soy Braian Aguada</h1>
-<h3 align="center">Desarrollador Back-End</h3>
+<h3 align="center">Desarrollador Full-Stack con preferencia por el Back-End</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=braianaguada&label=Profile%20views&color=0e75b6&style=flat" alt="braianaguada" /> </p>
 <p align="center">
- 🌱 Aprendiendo todos los días.
+ 🌱 Actualmente estoy aprendiendo **PostgreSQL, Sequelize, MongoDB, Mongoose**
  </p>
  <p align="center">
  📫 Para contactarme **braianaguada@gmail.com**
    </p>
 <p align="center">
- 📄 Sobre mi: Soy Braian Aguada, tengo 27 años, estudiante de Licenciatura en Ciencias de Datos en la UBA. Soy desarrollador Full-Stack y me encuentro estudiando programacion y aprendiendo dia a dia sobre este apasionante mundo.
+ 📄 Sobre mi: Soy Braian Aguada, tengo 27 años, estudiante de Licenciatura en Ciencias de Datos en la UBA. Soy desarrollador back end, me encuentro estudiando y realizando proyectos la mayor parte del tiempo.
  </p>
 <h3 align="center">Contactame:</h3>
 <p align="center">
